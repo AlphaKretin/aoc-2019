@@ -1,0 +1,23 @@
+{
+  "name": "alphakretin-aoc-2019",
+  "version": "1.0.0",
+  "description": "Package so I can ESLint my AoC solutions",
+  "main": "1-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint *.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaKretin/aoc-2019.git"
+  },
+  "author": "AlphaKretin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AlphaKretin/aoc-2019/issues"
+  },
+  "homepage": "https://github.com/AlphaKretin/aoc-2019#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
